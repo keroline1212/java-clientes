@@ -1,4 +1,4 @@
-package empresa;
+package clientes;
 
 public class Cliente {
     String nome;

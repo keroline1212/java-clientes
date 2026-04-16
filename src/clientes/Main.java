@@ -1,4 +1,4 @@
-package empresa;
+package clientes;
 
 import java.util.ArrayList;
 import java.util.Scanner;
